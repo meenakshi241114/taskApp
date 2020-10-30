@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5bcc081-898d-4609-9706-455866d219f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/Arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/ArrowUp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/Backarrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/CAIRS_Logo_fin_ys0pgs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/CAIRS_Logo_fin_ys0pgs@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/CAIRS_Logo_fin_ys0pgs@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/Casenote.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/Edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/Editinfo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/Ellipse 21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/Filter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/Home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/MasGroup1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/MaskGroup2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/Messages.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/Minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/Path129.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/Plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/Search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/Success.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/Union.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/Union3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/Useravatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/arrowDown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/calendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/compose.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/contact.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/deleteIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/downarrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/dummylogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/forward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/i.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/i@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/i@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/logo@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/modelclose.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/personalicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/reply.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/replyAll.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/replyColor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/send.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/sendmsg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/Images/map/uploadfile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/fonts/ConquerorSans-Light.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/fonts/ConquerorSans.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/fonts/Font AwesomeFreeSolid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/fonts/Font-Awesome-5-Free-Regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/fonts/FontAwesome.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/fonts/FontAwesomeRegular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/fonts/HelveticaNeueBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/fonts/Montserrat-Bold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/fonts/Montserrat-Medium.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/fonts/Montserrat-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/fonts/Montserrat-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/fonts/ProximaNova-Light.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/fonts/ProximaNova-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/fonts/Roboto-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Assets/fonts/Roboto-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/ButtonBox/ButtonBox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/ButtonBox/ButtonBoxStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/ButtonBox/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/Checkox/Checkbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/Checkox/CheckboxStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/Checkox/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/DatePicker/DatePicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/DatePicker/DatePickerStyles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/DatePicker/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/FormInput/InputMobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/FormInput/InputNumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/FormInput/InputPassword.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/FormInput/InputStyles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/FormInput/InputText.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/FormInput/TextArea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/FormInput/TextAreaStyles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/FormInput/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/GenericIcon/GenericIcon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/GenericIcon/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/IconButton/IconButton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/IconButton/IconButtonStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/IconButton/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/Loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/ModelBody.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/NavigationHeader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/NoDataFound/NoDataFound.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/NoDataFound/NoDataFoundStyles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/NoDataFound/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/NoRecord.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/RadioButtons/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/RadioButtons/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/RadioButtons/docs/demo/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/RadioButtons/docs/demo/Horizontal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/RadioButtons/docs/demo/Vertical.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/RadioButtons/docs/images/react-native-radio-buttons-group.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/RadioButtons/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/RadioButtons/lib/RadioButtonsGroup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/RadioButtons/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/SearchHeader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/Select/Select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/Select/SelectStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/Select/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/WhiteButton/WhiteButton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/WhiteButton/WhiteButtonStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/WhiteButton/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/styles/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Components/styles/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App/Config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/Clients/AdvanceSearch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/Clients/ClientList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/Clients/ClientList0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/Clients/ClientList1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/Clients/ClientSearch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/Compose/ComposeMeassage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/Compose/ComposeMeassage1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/Contact/AddContact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/Contact/AddNote.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/Contact/ContactSaved.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/Contact/CreateContact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/Contact/GeneralInformation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/Contact/PersonalInfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/Dashboard/DashboardScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App/Modules/Dashboard/DashboardScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/Dashboard/DashboardStyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App/Modules/Dashboard/DashboardStyle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/Login/LoginScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App/Modules/Login/LoginScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/Login/LoginScreenStyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App/Modules/Login/LoginScreenStyle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/Login/MemberKeyScreen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/MailInbox/Inbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/MailInbox/InboxReply.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/MailInbox/InboxReply1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/MailInbox/MailInboxStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/MailInbox/Reply.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/Root/RootScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App/Modules/Root/RootScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/SplashScreen/SplashScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App/Modules/SplashScreen/SplashScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/SplashScreen/SplashScreenStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/StaticScreens/CommingSoon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Modules/StaticScreens/CommingSoonStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Navigators/AppNavigator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App/Navigators/AppNavigator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Navigators/NavigationStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Navigators/TabNavigator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Sagas/StartupSaga.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App/Sagas/StartupSaga.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Sagas/UserSaga.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App/Sagas/UserSaga.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Sagas/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App/Sagas/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Services/UserService.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App/Services/UserService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Services/Utils/HelperService.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App/Services/Utils/HelperService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Services/ValidationService.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App/Services/ValidationService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Stores/User/Actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App/Stores/User/Actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Stores/User/InitialState.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App/Stores/User/InitialState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Stores/User/Reducers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App/Stores/User/Reducers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Stores/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App/Stores/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Theme/ApplicationStyles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Theme/Colors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Theme/FontFamily.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Theme/Fonts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Theme/Helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Theme/Images.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Theme/Layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Theme/Metrics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/Theme/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/BUCK" beforeDir="false" afterPath="$PROJECT_DIR$/app/BUCK" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/map/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/taskapp/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/map/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/taskapp/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map-tvOS/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/taskApp-tvOS/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map-tvOSTests/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/taskApp-tvOSTests/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/taskApp.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map.xcodeproj/xcshareddata/xcschemes/map-tvOS.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/taskApp.xcodeproj/xcshareddata/xcschemes/taskApp-tvOS.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map.xcodeproj/xcshareddata/xcschemes/map.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/taskApp.xcodeproj/xcshareddata/xcschemes/taskApp.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/taskApp.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/taskApp.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/taskApp.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map/AppDelegate.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/taskApp/AppDelegate.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map/AppDelegate.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/taskApp/AppDelegate.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/taskApp/Images.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map/Images.xcassets/AppIcon.appiconset/Icon-1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map/Images.xcassets/AppIcon.appiconset/Icon-120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map/Images.xcassets/AppIcon.appiconset/Icon-121.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map/Images.xcassets/AppIcon.appiconset/Icon-180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map/Images.xcassets/AppIcon.appiconset/Icon-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map/Images.xcassets/AppIcon.appiconset/Icon-58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map/Images.xcassets/AppIcon.appiconset/Icon-60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map/Images.xcassets/AppIcon.appiconset/Icon-80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map/Images.xcassets/AppIcon.appiconset/Icon-87.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map/Images.xcassets/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/taskApp/Images.xcassets/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/taskApp/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/taskApp/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/map/main.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/taskApp/main.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/mapTests/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/taskAppTests/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/mapTests/mapTests.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/taskAppTests/taskAppTests.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_6_API_27" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jb8EIa2df9CGN49RhMzPGiMyMG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1604061369974" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5bcc081-898d-4609-9706-455866d219f8" name="Default Changelist" comment="" />
+      <created>1604061317888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604061317888</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="126" y="136" width="1214" height="605" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1604061437699">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="126" y="136" width="1214" height="605" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1440.830@0.23.1440.830" timestamp="1604061437699" />
+    <state x="382" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1604061322050">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="382" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1604061322050" />
+  </component>
+</project>

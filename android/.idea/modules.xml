@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="taskApp/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2125515211/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/2125515211/react-native-gesture-handler.iml" group="taskApp/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1101397132/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1101397132/react-native-screens.iml" group="taskApp/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1813928681/react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/1813928681/react-native-svg.iml" group="taskApp/react-native-svg" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/840931819/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/840931819/react-native-vector-icons.iml" group="taskApp/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/taskApp.iml" filepath="$PROJECT_DIR$/.idea/modules/taskApp.iml" group="taskApp" />
+    </modules>
+  </component>
+</project>

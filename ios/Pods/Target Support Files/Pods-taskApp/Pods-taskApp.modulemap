@@ -1,0 +1,6 @@
+module Pods_taskApp {
+  umbrella header "Pods-taskApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
